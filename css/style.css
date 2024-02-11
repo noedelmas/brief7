@@ -50,21 +50,43 @@ section{
 
 .h2{
     justify-content: end;
-    display: flex;
     /* background-color: #2c2b2b; */
     text-shadow:  1px 1px 2px blueviolet;
 }
 
 .bg{
-    width: 1000px;
-    height: 1000px;
-    
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    /* display: flex; */
     background-size: cover;
     background-repeat: no-repeat;
+    align-items: center;
+    font-style:italic;
     background-image: url(../images/html-color-codes-color-tutorials-hero.jpg);
 }
 
 div{
     max-width: 100.926%;
     max-height: 100%;
+}
+
+p{
+    /* align-content: center; */
+    text-align: center;
+    /* align-items: center; */
+    display: flex;
+    justify-content: center;
+    /* background-color: #2c2b2b; */
+    /* border-radius: 3.5%; */
+    text-shadow:  1px 1px 2px grey;
+    color: grey;
+}
+
+.txt{
+    justify-content: center;
+    display:flex;
+    /* align-content: center;
+    text-align: center; */
+    /* align-items: center; */
 }
