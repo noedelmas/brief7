@@ -1,0 +1,115 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+footer{
+    /* text-align: center; */
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+footer h4{
+    text-transform: uppercase;
+    color: #1779a3;
+}
+
+footer ul{
+    list-style-type: none;
+}
+
+footer li{
+    color: rgb(191,178,152);
+}
+
+footer label{
+    color: white;
+}
+
+.footer {
+    background-color: rgb(0,51,80);
+}
+
+.footer ul p {
+    color: white;
+}
+
+.footr{
+   background-color: rgb(1,26,45);
+   color: white;
+}
+
+
+.x_twitter{
+    color: blue;
+}
+
+.linked_in{
+    color: blue;
+}
+
+.footr a{
+    color: #000;
+    text-align: center;
+}
+
+/*
+.footer p {
+    color: rgb(175, 175 175);
+}
+
+footer .copyright a {
+    text-decoration: none;
+    color: black;
+}
+
+footer .copyright {
+    text-decoration: none;
+    color: black;
+}
+
+footer .copyright i{
+    color: red;
+}
+.footer__rs {
+    padding: 0;
+    display: flex;
+}
+
+.footer__rs li {
+    list-style: none;
+    margin-right: 5px;
+}
+
+.footer__rs li a {
+    background-color: darkgrey;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-decoration: none;
+    transition: all 3s;
+}
+
+.footer__rs li a:hover {
+    background-color: blue;
+    transition: all 3s;
+}
+
+.footer__list {
+    margin: 0;
+    padding: 0;
+}
+
+.footer__list li {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.footer__list li a {
+    color: rgb(111, 111, 111);
+} */
