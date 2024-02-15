@@ -47,3 +47,12 @@ img{
     width: 50%;
     height: auto;
 }
+
+ul li{
+    list-style: none;
+}
+
+.emptycheck{
+    color: orangered;
+    font-size: 25px;
+}
