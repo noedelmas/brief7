@@ -1,0 +1,49 @@
+.nosval{
+    font-style: italic;
+    text-decoration: overline;
+}
+
+.lesplus{
+    border: 3px solid;
+    border-color:rgb(46,204,113);
+    border-radius: 5px;
+}
+
+.nosform{
+    font-weight: 700;
+    font-size: 35px;
+}
+
+h2{
+    justify-content: start;
+}
+
+.pourqui{
+    background-color: rgb(241,235,230);
+    border-radius: 1%;
+}
+
+.check i{
+    color: rgb(46,204,113);
+    font-size: 75px;
+    background-color: white;
+    border-radius: 1%;
+}
+
+.inner-container{
+    width: 550px;
+    background-color: white;
+}
+
+.check{
+    width: 1000px;
+}
+
+.carre{
+    color: rgb(46,204,113);
+}
+
+img{
+    width: 50%;
+    height: auto;
+}
