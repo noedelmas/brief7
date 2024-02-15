@@ -56,3 +56,16 @@ ul li{
     color: orangered;
     font-size: 25px;
 }
+
+.lesaides{
+    background-color: rgb(241,235,230);
+}
+
+.bg{
+    background-color: white;
+    border-radius: 1%;
+}
+
+.doc{
+    color: orangered;
+}
