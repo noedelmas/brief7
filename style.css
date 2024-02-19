@@ -69,3 +69,82 @@ ul li{
 .doc{
     color: orangered;
 }
+
+.nos_partenaires{
+    background-color: rgb(241,235,230);
+    border-radius: 10px;
+}
+
+.logo{
+    width: 75%;
+    height: auto;
+}
+
+.partenaires{
+    border: 5px solid rgb(241,235,230); 
+    border-radius: 10px;
+}
+
+.ern{
+    width: 25%;
+    height: auto;
+}
+
+.footer_alt{
+    /* text-align: center; */
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.footer_alt h4{
+    text-transform: uppercase;
+    color: #1779a3;
+}
+
+.footer_alt ul{
+    list-style-type: none;
+}
+
+.footer_alt li{
+    color: #1779a3;
+}
+
+.footer_alt label{
+    color: white;
+}
+
+.footer_alt{
+    background-color: rgb(241,235,230);
+}
+
+.footer_alt ul p{
+    color: white;
+}
+
+.footr_alt{
+   background-color: #1779a3;
+   color: rgb(241,235,230);
+   border-radius: 10px;
+}
+
+
+.x_twitter{
+    color: rgb(1,26,45);
+}
+
+.linked_in{
+    color: rgb(1,26,45);
+}
+
+.footer a{
+    text-decoration:none;
+    color: #1779a3;
+    text-align: center;
+    list-style-type: none;
+}
+
+.footer_alt ul li a{
+    text-decoration: none;
+    color: #1779a3;
+}
